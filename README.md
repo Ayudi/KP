@@ -1,2 +1,2 @@
 # KP
-repository kuliah praktek UPT TIK
+repository kuliah praktek RSIAB
